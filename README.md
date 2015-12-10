@@ -1,6 +1,6 @@
 # domain-scanner
 [![License MIT](https://img.shields.io/npm/l/express.svg)](http://opensource.org/licenses/MIT)
-[![Current Release](https://img.shields.io/badge/release-v0.1.1--alpha-brightgreen.svg)](https://github.com/composer22/domain-scanner/releases/tag/v0.0.1)
+[![Current Release](https://img.shields.io/badge/release-v0.1.0-brightgreen.svg)](https://github.com/composer22/domain-scanner/releases/tag/v0.0.1)
 
 A scanner to follow domain names and resolve redirects/rendering.
 
