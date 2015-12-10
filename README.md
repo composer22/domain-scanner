@@ -21,8 +21,8 @@ Server options:
     -W, -workers MAX                MAX running workers allowed (default: 4).
 
 Common options:
-    -h, --help                       Show this message.
-    -V, --version                    Show version.
+    -h, -help                       Show this message.
+    -V, -version                    Show version.
 
 Example:
 
